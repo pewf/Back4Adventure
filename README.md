@@ -3,7 +3,7 @@
 ### THIS MOD IS EXTREMELY BUGGY AND IS NOT YET READY FOR RELEASE
 ### PLEASE, AND PLEASE **DO NOT LOAD ANY CURRENT SAVE FILES IN THIS MOD WITHOUT A PROPER BACKUP, THINGS WILL BREAK**
 
-Mod for Beta 1.8 that adds Beta 1.7 world generation and QoL changes / tweaks
+Back4Adventure, a mod that brings back legacy beta world generation and QoL changes / tweaks to Beta 1.8
 
 ### Screenshots
 
