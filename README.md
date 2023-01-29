@@ -6,9 +6,9 @@ Back4Adventure, a mod that brings back legacy beta world generation and QoL chan
 
 ### Installation
 
-To play Back4Adventure, you can download the MultiMC instance in the latest release and import it.
+** It is recommended to use MultiMC (or any fork) for installation as jar modding hasn't worked in the official launcher for 10 years! **
 
-For what-ever reason that may arise, you can download the raw mod files in the same page as well
+The releases tab retains all of the past and current versions of Back4Adventure. Simply go there and install the .zip for the respective release and add the .zip
 
 ### Screenshots
 
