@@ -4,6 +4,12 @@ Back4Adventure, a mod that brings back legacy beta world generation and QoL chan
 
 ### THIS MOD IS IN DEVELOPMENT. DO NOT LOAD ANY CURRENT SAVE FILES IN THIS MOD WITHOUT A PROPER BACKUP, THINGS WILL BREAK
 
+### Installation
+
+To play Back4Adventure, you can download the MultiMC instance in the latest release and import it.
+
+For what-ever reason that may arise, you can download the raw mod files in the same page as well
+
 ### Screenshots
 
 ![image](https://user-images.githubusercontent.com/78571856/215299616-d0d9ed24-730e-49b3-8bbb-541f689f4361.png)
