@@ -1,6 +1,6 @@
 # Back4Adventure
 
-Back4Adventure, a mod that brings back legacy beta world generation and QoL changes / tweaks to Beta 1.8
+Back4Adventure, a Minecraft mod that brings back legacy beta world generation and QoL changes / tweaks to Beta 1.8
 
 ### THIS MOD IS IN DEVELOPMENT. DO NOT LOAD ANY CURRENT SAVE FILES IN THIS MOD WITHOUT A PROPER BACKUP, THINGS WILL BREAK
 
