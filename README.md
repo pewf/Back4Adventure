@@ -21,5 +21,5 @@ The releases tab retains all of the past and current versions of Back4Adventure.
 ### To do / Planned updates
 - Add a world setting to switch between b1.8 and b1.7 terrain generation
 - Add an option to toggle ambient occlusion on leaves
-- Seperate sliders for sound **(Like release 1.7)**
+- Seperate sliders for sound **(finished! needs to be polished which will be in next release)**
 - Fix all the bugs
